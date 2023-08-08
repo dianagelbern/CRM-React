@@ -33,5 +33,3 @@ Generales:
 
 Estilos:
 - Tailwind
-
-En el siguiente enlace podemos apreciar el funcionamiento del proyecto: [CRM-Clientes](https://graceful-churros-ed3f95.netlify.app/) 
