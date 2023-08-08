@@ -13,36 +13,28 @@
       "nombre": "Josue",
       "telefono": 31983913,
       "email": "josue@juan.com",
-      "empresa": "Codigo Con Juan"
+      "empresa": "Codigo Con Diana"
     },
     {
       "id": 4,
       "nombre": "Miguel",
       "telefono": 319381983,
       "email": "miguel@juan.com",
-      "empresa": "Codigo Con Juan"
+      "empresa": "Codigo Con Diana"
     },
     {
       "id": 5,
       "nombre": "Pedro",
       "telefono": 1398198938,
       "email": "pedro@juan.com",
-      "empresa": "Codigo Con Juan"
-    },
-    {
-      "nombre": "Diana",
-      "empresa": "Empresa de Diana",
-      "email": "diana@gmail.com",
-      "telefono": "2234566744",
-      "notas": "Notas para Diana",
-      "id": 6
+      "empresa": "Codigo Con Diana"
     },
     {
       "nombre": "Juan",
-      "empresa": "Codigo Con Juan",
+      "empresa": "Codigo Con Diana",
       "email": "juan@juan.com",
       "telefono": "102013313",
-      "notas": "Juan",
+      "notas": "Diana",
       "id": 7
     }
   ]

@@ -1,5 +1,5 @@
 import { Form, redirect, useActionData, useLoaderData, useNavigate } from "react-router-dom";
-import { actualizarCliente, agregarcliente, obtenerCliente } from "../data/clientes"
+import { actualizarCliente, obtenerCliente } from "../data/clientes"
 import Formulario from "../components/Formulario";
 import { IClient } from "../interfaces/IClient";
 import Error from "../components/Error";
@@ -17,7 +17,7 @@ export async function loader(params:any) {
 }
 
 export async function action(request: any) {
-  
+
   const formData = await request.request.formData();
   const datos = Object.fromEntries(formData) as IClient;
 
