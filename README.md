@@ -12,8 +12,15 @@ Formulario para editar un cliente existente
 
 ![Nuevo cliente](https://github.com/dianagelbern/CRM-React/blob/main/src/images/formulario_edit.png)
 
-El siguiente proyecto cuenta con una api REST "falsa" creada con json-server, para disfrutar de ella a parte de arrancar el proyecto con `npm run dev` se deberá escribir el siguiente comando en la consola
+El siguiente proyecto cuenta con una api REST "falsa" creada con json-server, para disfrutar de ella, a parte de arrancar el proyecto con `npm run dev` se deberán escribir los siguientes comandos en la consola
 
+
+Se debe instalar de forma global dentro de la terminal
+```shell
+   npm install -g json-server
+```
+
+Una vez intalado, dentro del proyecto se abrirá una terminal nueva para ejecutar el siguiente comando
 ```shell
    json-server --watch db.json
 ```
